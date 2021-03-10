@@ -1,0 +1,5 @@
+%Iter	duration	train_objective	valid_objective	difference
+0	91.0	0	0	0
+1	90.0	0.485507	0.468864	-0.016643
+2	90.0	0.681159	0.659341	-0.021818
+Total training time is 0:04:31

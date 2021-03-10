@@ -1,0 +1,18 @@
+ * Serving Flask app "start_api_v2" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on http://0.0.0.0:7488/ (Press CTRL+C to quit)
+103.225.134.10 - - [06/Mar/2021 21:02:41] "[37mPOST /verify HTTP/1.1[0m" 200 -
+122.170.1.5 - - [08/Mar/2021 14:39:23] "[37mPOST /delete?id=12345_1&name=Husna_Bano HTTP/1.1[0m" 200 -
+122.170.1.5 - - [08/Mar/2021 14:43:39] "[37mPOST /delete?id=12345_1&name=Husna_Bano HTTP/1.1[0m" 200 -
+122.170.1.5 - - [08/Mar/2021 14:44:05] "[37mPOST /delete?id=12345_1&name=Deepak%20Goel HTTP/1.1[0m" 200 -
+122.170.1.5 - - [08/Mar/2021 14:44:46] "[37mPOST /delete?id=12345_1&name=Husna_Bano HTTP/1.1[0m" 200 -
+122.170.1.5 - - [08/Mar/2021 14:50:31] "[37mPOST /delete?id=12345_1&name=Husna_Bano HTTP/1.1[0m" 200 -
+122.170.1.5 - - [08/Mar/2021 17:01:27] "[37mPOST /delete?id=12345_1&name=Husna_Bano HTTP/1.1[0m" 200 -
+122.170.1.5 - - [08/Mar/2021 17:06:18] "[37mPOST /delete?id=12345_1&name=Husna_Bano HTTP/1.1[0m" 200 -
+122.170.1.5 - - [08/Mar/2021 17:06:41] "[37mPOST /delete?id=12345_1&name=Husna_Bano HTTP/1.1[0m" 200 -
+122.170.1.5 - - [08/Mar/2021 17:07:03] "[37mPOST /delete?id=12345_1&name=Husna_Bano HTTP/1.1[0m" 200 -
+122.170.1.5 - - [08/Mar/2021 17:07:44] "[37mPOST /delete?id=12345_1&name=Deepak%20Goel HTTP/1.1[0m" 200 -
+122.170.1.5 - - [08/Mar/2021 17:07:59] "[37mPOST /delete?id=12345_2&name=Deepak%20Goel HTTP/1.1[0m" 200 -
