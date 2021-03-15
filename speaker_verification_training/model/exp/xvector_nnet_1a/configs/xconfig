@@ -25,4 +25,4 @@ relu-batchnorm-layer name=tdnn6 dim=512 input=stats
 # This is where another layer the embedding could be extracted
 # from, but usually the previous one works better.
 relu-batchnorm-layer name=tdnn7 dim=512
-output-layer name=output include-log-softmax=true dim=603
+output-layer name=output include-log-softmax=true dim=32
